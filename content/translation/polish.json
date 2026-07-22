@@ -307,5 +307,8 @@
 	"spell.tartarus-town.tartskill3.description.advanced": " ",
 	"spell.tartarus-town.tartskill3.description.basic": " ",
 	"spell.tartarus-town.tartskill3.description.expert": " ",
-	"spell.tartarus-town.tartskill3.description.none": " "
+	"spell.tartarus-town.tartskill3.description.none": " ",
+	"mod.name": "Tartar",
+	"mod.gamebalance.name": "Balans gry",
+	"mod.gamebalance.description": "Saldo frakcji Tartarus."
 }

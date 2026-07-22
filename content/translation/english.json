@@ -307,5 +307,16 @@
 	"spell.tartarus-town.tartskill3.description.basic" : " ",
 	"spell.tartarus-town.tartskill3.description.expert" : " ",
 	"spell.tartarus-town.tartskill3.description.none" : " ",
-	"spell.tartarus-town.tartskill3.name" : "Demonic Blood"
+	"spell.tartarus-town.tartskill3.name" : "Demonic Blood",
+	"mod.name" : "Tartarus",
+	"mod.bonuses icons.name" : "Additional bonuses icons",
+	"mod.bonuses icons.description" : "Additional icons for creatures abilities.",
+	"mod.gamebalance.name" : "Game balance",
+	"mod.gamebalance.description" : "Balance from Tartarus faction.",
+	"mod.gamebalance.heroes.name" : "Heroes",
+	"mod.gamebalance.heroes.description" : "Change the HotA balance for Tartarus faction.",
+	"mod.new-terrains.name" : "Iceland connector",
+	"mod.new-terrains.description" : "Iceland connector",
+	"mod.tow.name" : "Tides of War connector",
+	"mod.tow.description" : "Tides of War connector"
 }

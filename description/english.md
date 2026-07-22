@@ -1,5 +1,3 @@
-# english
-
 March beneath frozen banners with the Freegan warlords of **Tartarus** and bring the cold fury of the Kreegan polar regions to every battlefield. Tartarus is an ice-demon faction born from the northern and southern extremes of the Kreegan Plane, where exiled and hardened fiends forged their own brutal order after Inferno’s retreat. From those frozen depths they surged into Antagarich, carrying a culture of ruthless survival, dark sorcery, and glacial conquest.
 
 Tartarus armies blend relentless frontline pressure with control magic and scaling power. Open the battle with swarming **Ice Spawns** and **Quasits**, reinforce your lines with **Ice Golems** and **Frost Golems**, then strike from unexpected angles with swift **Furies** and **Stygian Furies**. As the fight drags on, **Frost Creepers** and **Frost Horrors** punish exposed targets, while **Arachnes** and **Crystal Arachnes** lock down space through lethal positioning and debilitation. At the apex stand the elite **Gelugons** and **Supreme Gelugons**, crowned by the terrifying top tier of **Ice Barons** and **Beelzebubs**.

@@ -146,13 +146,11 @@
 		"config/tartarus/creatures/tartarcbe.json",
 		"config/tartarus/creatures/tcommander.json"
 	],
-
 	"heroClasses" : [
 		"config/tartarus/classes/taheroA.json",
 		"config/tartarus/classes/taheroM.json",
 		"config/tartarus/classes/InfernoExtra.json"
 	],
-
 	"heroes" : [
 		"config/tartarus/heroes/tarhero01.json",
 		"config/tartarus/heroes/tarhero02.json",
@@ -196,5 +194,15 @@
 	],
 	"skills" : [
 		"config/tartarus/skills/demonicBlood/demonicBlood.json"
-	]
+	],
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
+		]
+	},
+	"french" : {
+		"translations" : [
+			"translation/french.json"
+		]
+	}
 }
