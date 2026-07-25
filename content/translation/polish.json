@@ -238,8 +238,8 @@
 	"spell.tartarus-town.tarspell2.description.expert": "{Cyklon Arktyczny Mistrzowski}\n\nPrzywołuje gwałtowną burzę i powoduje ogromne zniszczenia.\n",
 	"spell.tartarus-town.tarspell2.description.none": "{Cyklon Arktyczny}\n\nPrzywołuje gwałtowną burzę i powoduje ogromne zniszczenia.\n",
 	"spell.tartarus-town.tarspell2.name": "Cyklon Arktyczny",
-	"spell.tartarus-town.tartarusMoat.name": "Kopać",
-	"spell.tartarus-town.tartarusMoatTrigger.name": "Kopać",
+	"spell.tartarus-town.tartarusMoat.name": "Rów",
+	"spell.tartarus-town.tartarusMoatTrigger.name": "Sopel",
 	"spell.tartarus-town.tartskill1.name": "Demoniczna Krew",
 	"spell.tartarus-town.tartskill2.name": "Demoniczna Krew",
 	"spell.tartarus-town.tartskill3.name": "Demoniczna Krew",
@@ -310,5 +310,13 @@
 	"spell.tartarus-town.tartskill3.description.none": " ",
 	"mod.name": "Tartar",
 	"mod.gamebalance.name": "Balans gry",
-	"mod.gamebalance.description": "Saldo frakcji Tartarus."
+	"mod.gamebalance.description": "Saldo frakcji Tartarus.",
+	"mod.bonuses icons.name": "Dodatkowe ikonki umiejek",
+	"mod.bonuses icons.description": "Dodatkowe ikonki obrazujące umiejętności stworzeń.",
+	"mod.gamebalance.heroes.name": "Bohaterowie",
+	"mod.gamebalance.heroes.description": "Zmiany dla bohaterów na wzór zmian wprowadzonych przez HotA Team.",
+	"mod.new-terrains.name": "Łącznik z Krainą lodu",
+	"mod.new-terrains.description": "Łącznik z Krainą lodu",
+	"mod.tow.name": "Łącznik z modem Tides of War",
+	"mod.tow.description": "Łącznik z modem Tides of War"
 }
