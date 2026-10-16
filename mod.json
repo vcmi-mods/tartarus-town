@@ -107,6 +107,12 @@
 			"translation/chinese.json"
 		]
 	},
+	"french" : {
+		"name" : "Tartare",
+		"translations" : [
+			"translation/french.json"
+		]
+	},
 	"german" : {
 		"name" : "Tartarus",
 		"translations" : [
