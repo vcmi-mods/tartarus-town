@@ -30,7 +30,10 @@
 	},
 	"french" : {
 		"name" : "Héros",
-		"description" : "Modifier l'équilibrage de HotA pour la faction des Tartarus."
+		"description" : "Modifier l'équilibrage de HotA pour la faction des Tartares.",
+		"translations" : [
+			"translation/french.json"
+		]
 	},
 	"russian" : {
 		"name" : "Герои",

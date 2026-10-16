@@ -1,0 +1,11 @@
+{
+	"hero.tartarus-town.tarhero01.specialty.description" : "Augmente la Vitesse des Rejetons de Glace et des Quasits alliés de 1, ainsi que leurs compétences d'Attaque et de Défense de 10 % par niveau (arrondi à l'entier supérieur).",
+	"hero.tartarus-town.tarhero03.specialty.description" : "Augmente la Vitesse de tous les Gelugons ou Gelugons Suprêmes de 1, ainsi que ses compétences d'Attaque et de Défense de 20 % tous les 4 niveaux (arrondi à l'entier supérieur).",
+	"hero.tartarus-town.tarhero07.specialty.description" : "Augmente la Vitesse des Golems de Glace ou Golems de Givre alliés de 1, ainsi que leurs compétences d'Attaque et de Défense de 20 % tous les 2 niveaux (arrondi à l'entier supérieur).",
+	"hero.tartarus-town.tarhero08.specialty.description" : "Augmente les compétences d'Attaque et de Défense de la Baliste de 30 % tous les 5 niveaux (arrondi à l'entier supérieur).",
+	"hero.tartarus-town.tarhero09.specialty.description" : "Lance un Éclair de Glace dont les dégâts sont augmentés de 10 % tous les N niveaux de héros, où N correspond au niveau de la créature ciblée.",
+	"hero.tartarus-town.tarhero10.specialty.description" : "Augmente la Vitesse des Rampants de Givre ou des Horreurs de Givre alliés de 1, ainsi que leurs compétences d'Attaque et de Défense de 20 % tous les 2 niveaux (arrondi à l'entier supérieur).",
+	"hero.tartarus-town.tarhero11.specialty.description" : "Augmente la Vitesse des Furies ou Furies Stygiennes alliées de 1, ainsi que leurs compétences d'Attaque et de Défense de 20 % tous les 2 niveaux (arrondi à l'entier supérieur).",
+	"hero.tartarus-town.tarhero12.specialty.description" : "Augmente la Vitesse des Arachnées ou Arachnées de Cristal alliées de 1, ainsi que leurs compétences d'Attaque et de Défense de 20 % tous les 2 niveaux (arrondi à l'entier supérieur).",
+	"hero.tartarus-town.tarhero13.specialty.description" : "Invoque un Météore de Glace dont les dégâts sont augmentés de 10 % pour chaque tranche de N niveaux de héros, où N correspond au niveau de la créature ciblée."
+}
