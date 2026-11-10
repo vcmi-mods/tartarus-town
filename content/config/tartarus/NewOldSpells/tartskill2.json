@@ -84,24 +84,29 @@
 				"cost" : 0,
 				"range" : "X",
 
-				"effects" : {
-					"attack" : {
-						"val" : 2,
-						"type" : "PRIMARY_SKILL",
-						"subtype" : "attack",
-						"duration" : "N_TURNS"
-					},
-					"defence" : {
-						"val" : 2,
-						"type" : "PRIMARY_SKILL",
-						"subtype" : "defence",
-						"duration" : "N_TURNS"
-					},
-					"speed" : {
-						"type" : "STACKS_SPEED",
-						"val" : 1,
-						"valueType" : "BASE_NUMBER",
-						"duration" : "N_TURNS"
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"attack" : {
+								"val" : 2,
+								"type" : "PRIMARY_SKILL",
+								"subtype" : "attack",
+								"duration" : "N_TURNS"
+							},
+							"defence" : {
+								"val" : 2,
+								"type" : "PRIMARY_SKILL",
+								"subtype" : "defence",
+								"duration" : "N_TURNS"
+							},
+							"speed" : {
+								"type" : "STACKS_SPEED",
+								"val" : 1,
+								"valueType" : "BASE_NUMBER",
+								"duration" : "N_TURNS"
+							}
+						}
 					}
 				}
 			},

@@ -56,13 +56,18 @@
 				},
 				"cost" : 0,
 
-				"effects" : {
-					"stacksSpeed" : {
-						//						"addInfo" : 0,
-						"type" : "STACKS_SPEED",
-						"val" : -20,
-						"valueType" : "PERCENT_TO_ALL",
-						"duration" : "N_TURNS"
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"stacksSpeed" : {
+								//						"addInfo" : 0,
+								"type" : "STACKS_SPEED",
+								"val" : -20,
+								"valueType" : "PERCENT_TO_ALL",
+								"duration" : "N_TURNS"
+							}
+						}
 					}
 				}
 			},
@@ -74,17 +79,27 @@
 			},
 			"advanced" : {
 				"description" : "{Crystal Cobweb}\r\n\r\nReduce speeds by 30%.",
-				"effects" : {
-					"stacksSpeed" : {
-						"val" : -30
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"stacksSpeed" : {
+								"val" : -30
+							}
+						}
 					}
 				}
 			},
 			"expert" : {
 				"description" : "{Crystal Cobweb}\r\n\r\nReduce speeds by 30%. ",
-				"effects" : {
-					"stacksSpeed" : {
-						"val" : -30
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"stacksSpeed" : {
+								"val" : -30
+							}
+						}
 					}
 				}
 			}

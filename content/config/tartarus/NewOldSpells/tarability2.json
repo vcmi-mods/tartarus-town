@@ -62,12 +62,17 @@
 
 				"cost" : 0,
 
-				"effects" : {
-					"defence" : {
-						"val" : 5,
-						"type" : "PRIMARY_SKILL",
-						"subtype" : "primarySkill.defence",
-						"duration" : "N_TURNS"
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"defence" : {
+								"val" : 5,
+								"type" : "PRIMARY_SKILL",
+								"subtype" : "primarySkill.defence",
+								"duration" : "N_TURNS"
+							}
+						}
 					}
 				}
 			},
@@ -76,12 +81,17 @@
 
 				"cost" : 0,
 
-				"effects" : {
-					"defence" : {
-						"val" : 5,
-						"type" : "PRIMARY_SKILL",
-						"subtype" : "primarySkill.defence",
-						"duration" : "N_TURNS"
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"defence" : {
+								"val" : 5,
+								"type" : "PRIMARY_SKILL",
+								"subtype" : "primarySkill.defence",
+								"duration" : "N_TURNS"
+							}
+						}
 					}
 				}
 			},
@@ -90,12 +100,17 @@
 
 				"cost" : 0,
 
-				"effects" : {
-					"defence" : {
-						"val" : 5,
-						"type" : "PRIMARY_SKILL",
-						"subtype" : "primarySkill.defence",
-						"duration" : "N_TURNS"
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"defence" : {
+								"val" : 5,
+								"type" : "PRIMARY_SKILL",
+								"subtype" : "primarySkill.defence",
+								"duration" : "N_TURNS"
+							}
+						}
 					}
 				}
 			},
@@ -104,12 +119,17 @@
 
 				"cost" : 0,
 
-				"effects" : {
-					"defence" : {
-						"val" : 5,
-						"type" : "PRIMARY_SKILL",
-						"subtype" : "primarySkill.defence",
-						"duration" : "N_TURNS"
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"defence" : {
+								"val" : 5,
+								"type" : "PRIMARY_SKILL",
+								"subtype" : "primarySkill.defence",
+								"duration" : "N_TURNS"
+							}
+						}
 					}
 				}
 			}

@@ -82,8 +82,9 @@
 				"val" : 100
 			},
 			"iceBonus" : {
-				"type" : "ENCHANTED",
-				"subtype" : "spell.tarAbility2",
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "enchanted",
+				"addInfo" : { "spell" : "spell.tarAbility2" },
 				"val" : 0,
 				"hidden" : true,
 				"limiters" : [
@@ -233,8 +234,9 @@
 			},
 			{
 				"bonus" : {
-					"type" : "ENCHANTED",
-					"subtype" : "protectWater"
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : { "spell" : "protectWater" }
 				},
 				"values" : [
 					0,

@@ -205,10 +205,5 @@
 		"translations" : [
 			"translation/czech.json"
 		]
-	},
-	"french" : {
-		"translations" : [
-			"translation/french.json"
-		]
 	}
 }

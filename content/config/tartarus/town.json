@@ -8,7 +8,7 @@
 		"name" : "Tartarus",
 		"description" : "Tartarus is the name given to the two polar regions of the Kreegan Plane; the native inhabitants call their region Freegan. These demons, who once lived in the polar regions, were also suppressed by the Inferno forces, but after the Inferno forces moved to Eeofol, they quickly became the de facto rulers of the Kreegan Plane. Taking advantage of the defeat of the Inferno forces, they moved from Kreegan to Antagraich.",
 		"boat" : "boatNecropolis",
-		"nativeTerrain" : "snow",
+		"nativeTerrain" : [ "snow" ],
 		"preferUndergroundPlacement" : true,
 		"puzzleMap" : {
 			"prefix" : "tartarus/puzzle-map/PUZ",

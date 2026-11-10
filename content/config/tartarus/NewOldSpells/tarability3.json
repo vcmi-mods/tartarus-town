@@ -56,23 +56,28 @@
 				},
 				"cost" : 0,
 
-				"effects" : {
-					"notActive" : {
-						"val" : 0,
-						"type" : "NOT_ACTIVE",
-						"subtype" : "stoneGaze",
-						"duration" : [
-							"UNTIL_BEING_ATTACKED",
-							"N_TURNS"
-						]
-					},
-					"noRetaliation" : {
-						//						"val" : 0,
-						"type" : "NO_RETALIATION",
-						"duration" : [
-							"UNTIL_BEING_ATTACKED",
-							"N_TURNS"
-						]
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"notActive" : {
+								"val" : 0,
+								"type" : "NOT_ACTIVE",
+								"subtype" : "stoneGaze",
+								"duration" : [
+									"UNTIL_BEING_ATTACKED",
+									"N_TURNS"
+								]
+							},
+							"noRetaliation" : {
+								//						"val" : 0,
+								"type" : "NO_RETALIATION",
+								"duration" : [
+									"UNTIL_BEING_ATTACKED",
+									"N_TURNS"
+								]
+							}
+						}
 					}
 				}
 			},
