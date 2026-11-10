@@ -218,7 +218,9 @@
 				"bonus" : {
 					"type" : "COMBAT_EVENT_TRIGGER",
 					"subtype" : "enchanted",
-					"addInfo" : { "spell" : "protectWater" }
+					"addInfo" : {
+						"spell" : "protectWater"
+					}
 				},
 				"values" : [
 					0,

@@ -302,5 +302,6 @@
 	"mod.gamebalance.name": "Équilibre du jeu",
 	"mod.gamebalance.description": "Équilibre de la faction Tartare.",
 	"mod.gamebalance.heroes.name": "Héros",
-	"mod.gamebalance.heroes.description": "Modifier l'équilibrage de HotA pour la faction des Tartares."
+	"mod.gamebalance.heroes.description": "Modifier l'équilibrage de HotA pour la faction des Tartares.",
+	"mod.name": "Tartare"
 }

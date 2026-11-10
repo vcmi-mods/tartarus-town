@@ -4,7 +4,9 @@
 			"iceBonus2" : {
 				"type" : "COMBAT_EVENT_TRIGGER",
 				"subtype" : "enchanted",
-				"addInfo" : { "spell" : "spell.tarAbility2" },
+				"addInfo" : {
+					"spell" : "spell.tarAbility2"
+				},
 				"val" : 0,
 				"hidden" : true,
 				"limiters" : [

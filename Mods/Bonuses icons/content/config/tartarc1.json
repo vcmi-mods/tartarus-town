@@ -131,7 +131,9 @@
 				"bonus" : {
 					"type" : "COMBAT_EVENT_TRIGGER",
 					"subtype" : "enchanted",
-					"addInfo" : { "spell" : "fortune" },
+					"addInfo" : {
+						"spell" : "fortune"
+					},
 					"icon" : "bonuses/tartarus/enchantedfortune.png"
 				},
 				"values" : [

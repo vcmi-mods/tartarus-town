@@ -11,7 +11,9 @@
 				"main" : {
 					"type" : "COMBAT_EVENT_TRIGGER",
 					"subtype" : "enchanted",
-					"addInfo" : { "spell" : "spell.tartskill1" },
+					"addInfo" : {
+						"spell" : "spell.tartskill1"
+					},
 					"propagator" : "ARMY",
 					"val" : 0,
 					"valueType" : "BASE_NUMBER",
@@ -41,7 +43,9 @@
 				"main" : {
 					"type" : "COMBAT_EVENT_TRIGGER",
 					"subtype" : "enchanted",
-					"addInfo" : { "spell" : "spell.tartskill1" },
+					"addInfo" : {
+						"spell" : "spell.tartskill1"
+					},
 					"propagator" : "ARMY",
 					"val" : 0,
 					"valueType" : "BASE_NUMBER",
@@ -71,7 +75,9 @@
 				"main" : {
 					"type" : "COMBAT_EVENT_TRIGGER",
 					"subtype" : "enchanted",
-					"addInfo" : { "spell" : "spell.tartskill2" },
+					"addInfo" : {
+						"spell" : "spell.tartskill2"
+					},
 					"propagator" : "ARMY",
 					"val" : 0,
 					"valueType" : "BASE_NUMBER",
@@ -101,7 +107,9 @@
 				"main" : {
 					"type" : "COMBAT_EVENT_TRIGGER",
 					"subtype" : "enchanted",
-					"addInfo" : { "spell" : "spell.tartskill3" },
+					"addInfo" : {
+						"spell" : "spell.tartskill3"
+					},
 					"propagator" : "ARMY",
 					"val" : 0,
 					"valueType" : "BASE_NUMBER",
