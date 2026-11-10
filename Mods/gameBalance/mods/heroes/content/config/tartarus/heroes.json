@@ -70,11 +70,7 @@
 	},
 	"tartarus-town:tarhero13" : {
 		"specialty" : {
-			"bonuses" : {
-				"meteorIce" : {
-					"val" : 10
-				}
-			}
+			"spellScalingVal" : 10
 		},
 		"texts" : {
 			"specialty" : {

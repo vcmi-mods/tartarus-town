@@ -141,8 +141,9 @@
 			},
 			{
 				"bonus" : {
-					"type" : "ENCHANTED",
-					"subtype" : "protectWater",
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : { "spell" : "protectWater" },
 					"icon" : "bonuses/tartarus/damage_reduction_water.png"
 				},
 				"values" : [

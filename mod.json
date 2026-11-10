@@ -2,8 +2,11 @@
 	"name" : "Tartarus",
 	"author" : "Ben YAN, collaborators: Kurek and Yan Liu",
 	"contact" : "http://forum.vcmi.eu/index.php",
-	"version" : "2.12",
+	"version" : "2.13",
 	"changelog" : {
+		"2.13" : [
+			"Updated to VCMI 1.8 format"
+		],
 		"2.12" : [
 			"Fixed New terrains patches, dwellings are now correctly genereated on both Snow or Iceland",
 			"Removed BMPs for already existing PNGs",
@@ -204,11 +207,6 @@
 	"czech" : {
 		"translations" : [
 			"translation/czech.json"
-		]
-	},
-	"french" : {
-		"translations" : [
-			"translation/french.json"
 		]
 	}
 }

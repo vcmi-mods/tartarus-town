@@ -2,8 +2,9 @@
 	"tartarus-town:tartarc8" : {
 		"abilities" : {
 			"iceBonus2" : {
-				"type" : "ENCHANTED",
-				"subtype" : "spell.tarAbility2",
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "enchanted",
+				"addInfo" : { "spell" : "spell.tarAbility2" },
 				"val" : 0,
 				"hidden" : true,
 				"limiters" : [
