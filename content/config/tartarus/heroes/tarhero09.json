@@ -55,7 +55,7 @@
 		"specialty" : {
 			"bonuses" : {
 				"iceBolt" : {
-					"type" : "SPECIAL_SPELL_LEV",
+					"type" : "SPECIAL_SPELL_SCALING",
 					"subtype" : "iceBolt",
 					"val" : 5
 				}
